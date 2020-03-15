@@ -3,12 +3,24 @@
     <keyboard-shortcut first-keystroke="alt 1" />
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
+  <action id="ChangesView.GroupBy.Directory" />
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
+  <action id="EditorMoveToPageBottomWithSelection" />
+  <action id="EditorMoveToPageTopWithSelection" />
   <action id="GotoAction" />
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="button2" />
+    <mouse-shortcut keystroke="shift control button1" />
+  </action>
+  <action id="IntroduceParameter" />
+  <action id="Jdbc.OpenEditor.DDL">
+    <mouse-shortcut keystroke="button2" />
+    <mouse-shortcut keystroke="shift control button1" />
+  </action>
   <action id="ManageRecentProjects">
-    <keyboard-shortcut first-keystroke="shift ctrl p" />
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
   </action>
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="shift alt 8" />
@@ -17,7 +29,18 @@
     <keyboard-shortcut first-keystroke="shift alt 2" />
   </action>
   <action id="StartStopMacroRecording" />
+  <action id="TabShiftActions.MoveFocusLeft">
+    <keyboard-shortcut first-keystroke="shift ctrl alt open_bracket" />
+    <keyboard-shortcut first-keystroke="shift ctrl page_up" />
+  </action>
+  <action id="TabShiftActions.MoveFocusRight">
+    <keyboard-shortcut first-keystroke="shift ctrl alt close_bracket" />
+    <keyboard-shortcut first-keystroke="shift ctrl page_down" />
+  </action>
   <action id="UnsplitAll">
     <keyboard-shortcut first-keystroke="shift alt 1" />
+  </action>
+  <action id="opennInNewSplittedTab">
+    <keyboard-shortcut first-keystroke="f12" />
   </action>
 </keymap>

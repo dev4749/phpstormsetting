@@ -3,7 +3,7 @@
     <property name="created">2020-02-25T17:57:17</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.3.3.0.0</property>
-    <property name="modified">2020-02-26T17:41:11</property>
+    <property name="modified">2021-03-28T11:12:54</property>
     <property name="originalScheme">One Dark vivid</property>
   </metaInfo>
   <colors>
@@ -248,7 +248,7 @@
     </option>
     <option name="CONSOLE_GRAY_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="646a73" />
+        <option name="FOREGROUND" value="0" />
         <option name="ERROR_STRIPE_COLOR" value="21252b" />
       </value>
     </option>
@@ -1207,7 +1207,7 @@
     </option>
     <option name="LOG_VERBOSE_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="61afef" />
+        <option name="FOREGROUND" value="61abef" />
       </value>
     </option>
     <option name="LOG_WARNING_OUTPUT">

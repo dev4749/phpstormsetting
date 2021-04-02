@@ -4,7 +4,7 @@
       <mapping ext="tpl" type="PHP" />
       <mapping ext="cgi" type="PHP" />
       <mapping ext="mo" type="PLAIN_TEXT" />
-      <removed_mapping ext="cgi" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cgi" approved="true" type="Perl5 script" />
       <removed_mapping ext="tpl" approved="true" type="Smarty" />
       <removed_mapping ext="tpl" approved="true" type="Smarty" />
       <removed_mapping ext="cgi" approved="true" type="Perl5 script" />

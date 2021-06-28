@@ -5,6 +5,7 @@
       <mapping ext="tpl" type="PHP" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
+      <mapping pattern="exception.stub" type="PLAIN_TEXT" />
       <mapping pattern="정리" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
       <removed_mapping ext="cgi" approved="true" type="Perl5 script" />

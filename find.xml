@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
     <mask>*.html</mask>
@@ -15,10 +13,11 @@
     <mask>*.phtml</mask>
     <mask>*.hphp</mask>
     <mask>*.ctp</mask>
-    <mask>*.js</mask>
-    <mask>*.php</mask>
-    <mask>*.tpl</mask>
     <mask>blade</mask>
     <mask>*blade.php</mask>
+    <mask>*.blade.php</mask>
+    <mask>*.tpl</mask>
+    <mask>*.js</mask>
+    <mask>*.php</mask>
   </component>
 </application>

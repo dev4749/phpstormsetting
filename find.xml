@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project 'newadmin'" />
+    <option name="defaultScopeName" value="Project 'newadmin'" />
+    <option name="SEARCH_SCOPE" value="Project 'newadmin'" />
     <mask>blade</mask>
     <mask>*blade.php</mask>
     <mask>*.blade.php</mask>

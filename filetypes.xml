@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="ff" type="AUTO_DETECTED" />
+      <mapping pattern="d" type="AUTO_DETECTED" />
       <mapping ext="tpl" type="PHP" />
       <mapping ext="cgi" type="PHP" />
       <mapping pattern="test" type="PLAIN_TEXT" />

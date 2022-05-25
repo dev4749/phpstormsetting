@@ -1,0 +1,9 @@
+<keymap version="1" name="Sublime Text copy 1" parent="Sublime Text">
+  <action id="ChangesView.GroupBy.Directory" />
+  <action id="IntroduceParameter" />
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="s" />
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
+  </action>
+  <action id="UsageGrouping.Directory" />
+</keymap>

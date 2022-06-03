@@ -7,6 +7,7 @@
       <mapping ext="cgi" type="PHP" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="정리" type="PLAIN_TEXT" />
+      <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern="exception.stub" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />

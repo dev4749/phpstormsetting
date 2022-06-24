@@ -14,6 +14,7 @@
       <mapping ext="mo" type="PLAIN_TEXT" />
       <removed_mapping ext="cgi" approved="true" type="Perl5 script" />
       <removed_mapping ext="tpl" approved="true" type="Smarty" />
+      <mapping ext="plantuml" type="PlantUML file" />
     </extensionMap>
   </component>
 </application>

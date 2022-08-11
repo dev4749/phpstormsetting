@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tpl" />
     <mask>blade</mask>
     <mask>*blade.php</mask>
     <mask>*.blade.php</mask>
@@ -20,10 +21,10 @@
     <mask>.php</mask>
     <mask>*.html</mask>
     <mask>*.blade</mask>
-    <mask>*.tpl</mask>
     <mask>*.php</mask>
     <mask>stub</mask>
     <mask>php</mask>
     <mask>*.stub</mask>
+    <mask>*.tpl</mask>
   </component>
 </application>

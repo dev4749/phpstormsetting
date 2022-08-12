@@ -20,10 +20,10 @@
     <mask>.php</mask>
     <mask>*.html</mask>
     <mask>*.blade</mask>
-    <mask>*.php</mask>
     <mask>stub</mask>
     <mask>php</mask>
     <mask>*.stub</mask>
     <mask>*.tpl</mask>
+    <mask>*.php</mask>
   </component>
 </application>

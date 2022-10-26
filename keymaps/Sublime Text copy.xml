@@ -10,10 +10,6 @@
   <action id="EditorMoveToPageBottomWithSelection" />
   <action id="EditorMoveToPageTopWithSelection" />
   <action id="GotoAction" />
-  <action id="GotoDeclaration">
-    <mouse-shortcut keystroke="button2" />
-    <mouse-shortcut keystroke="shift control button1" />
-  </action>
   <action id="IntroduceParameter" />
   <action id="Jdbc.OpenEditor.DDL">
     <mouse-shortcut keystroke="button2" />

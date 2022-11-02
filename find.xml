@@ -26,5 +26,6 @@
     <mask>*.tpl</mask>
     <mask>*.blade.*</mask>
     <mask>*.php</mask>
+    <mask>*.blade*</mask>
   </component>
 </application>

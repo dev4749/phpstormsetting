@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\resources\views\user_ip_block.blade.php'" />
-    <option name="defaultScopeName" value="File '…\resources\views\user_ip_block.blade.php'" />
-    <option name="SEARCH_SCOPE" value="File '…\resources\views\user_ip_block.blade.php'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>blade</mask>
     <mask>*blade.php</mask>
     <mask>*.blade.php</mask>

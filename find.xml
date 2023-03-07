@@ -30,5 +30,6 @@
     <mask>*.tpl*</mask>
     <mask>*.TPL*</mask>
     <mask>*.php*</mask>
+    <mask>*.html*</mask>
   </component>
 </application>

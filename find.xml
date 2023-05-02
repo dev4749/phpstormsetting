@@ -35,7 +35,7 @@
     <mask>*.PHP*</mask>
     <mask>*.html*</mask>
     <mask>*.*</mask>
-    <mask>*.php*</mask>
     <mask>*.blade*</mask>
+    <mask>*.php*</mask>
   </component>
 </application>

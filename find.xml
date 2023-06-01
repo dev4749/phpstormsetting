@@ -29,11 +29,11 @@
     <mask>*.blade.*</mask>
     <mask>*.php</mask>
     <mask>*.tpl*</mask>
-    <mask>*.TPL*</mask>
     <mask>*.PHP*</mask>
     <mask>*.html*</mask>
     <mask>*.*</mask>
     <mask>*.blade*</mask>
     <mask>*.php*</mask>
+    <mask>*.TPL*</mask>
   </component>
 </application>

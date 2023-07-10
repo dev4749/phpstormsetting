@@ -5,6 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php*" />
     <mask>blade</mask>
     <mask>*blade.php</mask>
     <mask>*.blade.php</mask>
@@ -33,7 +34,7 @@
     <mask>*.html*</mask>
     <mask>*.*</mask>
     <mask>*.blade*</mask>
-    <mask>*.php*</mask>
     <mask>*.TPL*</mask>
+    <mask>*.php*</mask>
   </component>
 </application>
